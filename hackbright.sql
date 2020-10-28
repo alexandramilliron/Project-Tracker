@@ -185,7 +185,6 @@ COPY public.projects (id, title, description, max_grade) FROM stdin;
 3	Take a Walk	COVID-safe walking app	100
 4	Gimme Game	gives user a video game	50
 5	SQL.gov	SQL help	30
-\.
 
 
 --
